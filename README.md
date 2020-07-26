@@ -18,4 +18,4 @@ You can find more information here: https://wiki.archlinux.org/index.php/Aurweb_
 
 
 
-*DISCLAIMER: aurlib is not affiliated with Arch Linux©.
+*DISCLAIMER: aurlib is not affiliated with Arch Linux*
